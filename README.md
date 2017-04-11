@@ -16,7 +16,10 @@ Open Terminal:
 - type the following commands:
 
 $ `npm init` 
+
 $ `npm install express body-parser sqlite knex --save` 
+
 $ `node server.js` 
+
 
 - Open your browser and navigate to localhost:3000
