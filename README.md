@@ -22,4 +22,4 @@ $ `npm install express body-parser sqlite knex --save`
 $ `node server.js` 
 
 
-- Open your browser and navigate to localhost:3000
+Open your browser and navigate to localhost:3000
